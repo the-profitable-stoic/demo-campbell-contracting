@@ -1,0 +1,584 @@
+{
+  "business": {
+    "name": "Campbell Contracting",
+    "phone": "+16152420001",
+    "category": "general contractor",
+    "city": "Nashville",
+    "state": "TN"
+  },
+  "design": {
+    "preset": {
+      "id": "general-contractor-heritage-craft",
+      "categoryGroup": "general-contractor",
+      "name": "Heritage Craft",
+      "recipeFile": "general-contractor/heritage-craft.astro",
+      "colors": {
+        "primary": "#4A5A6B",
+        "primaryDark": "#2c3640",
+        "primaryLight": "#c0c5cb",
+        "secondary": "#3f4d5b",
+        "accent": "#4A5A6B",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#3f4d5b",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "general-contractor/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Nashville's Trusted Contractor",
+      "heroSubline": "Building and renovating homes across Middle Tennessee. Licensed, insured, and committed to quality craftsmanship.",
+      "aboutTitle": "Building Nashville, One Project at a Time",
+      "aboutText": [
+        "Campbell Contracting started with a simple goal: to provide reliable and high-quality construction services to our neighbors in Nashville. We've grown from a small team to a dedicated crew of professionals, but our commitment to customer satisfaction remains the same.",
+        "We believe in open communication, meticulous planning, and a collaborative approach to every project. From initial consultation to final walkthrough, we're dedicated to making the process smooth and stress-free for you.",
+        "As a local business, we're invested in the Nashville community. We source materials locally whenever possible and actively support local charities and organizations."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Nashville's unique building challenges and codes."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "Clear and detailed estimates with no hidden fees or surprises."
+        },
+        {
+          "title": "Quality Craftsmanship",
+          "description": "Experienced team dedicated to delivering exceptional results that last."
+        },
+        {
+          "title": "Reliable Communication",
+          "description": "We keep you informed every step of the way, ensuring a smooth and collaborative process."
+        }
+      ],
+      "ctaHeadline": "Let's Build Something Great Together",
+      "ctaSubline": "Contact us today for a free consultation and discover how we can bring your vision to life."
+    },
+    "services": [
+      {
+        "slug": "kitchen-remodeling",
+        "name": "Kitchen Remodeling",
+        "shortDescription": "Transform your kitchen into the heart of your Nashville home.",
+        "description": "Is your kitchen outdated, cramped, or simply not meeting your needs? Campbell Contracting specializes in kitchen remodeling projects tailored to Nashville homes. We handle everything from design and layout to cabinet installation, countertop selection, and appliance upgrades. Whether you're dreaming of a modern, open-concept kitchen or a cozy, traditional space, we'll work closely with you to create a functional and beautiful kitchen that reflects your style and enhances your home's value. We understand the challenges of older homes in areas like East Nashville, and we're skilled at working within existing structures while bringing your vision to life. We also ensure permitting is handled correctly, as Nashville codes can be complex. \n\nFrom replacing outdated flooring to installing new lighting fixtures, we pay attention to every detail to ensure a seamless and stunning transformation. We can help you choose durable, stylish materials that stand up to daily use and complement your home's aesthetic. \n\nWe use quality materials from local suppliers. Our team is experienced with all aspects of kitchen remodeling, including plumbing, electrical, and carpentry. We ensure all work is completed to the highest standards and in compliance with local building codes.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your vision, budget, and needs, then create a detailed design plan.",
+          "Step 2: Material Selection – We guide you through choosing the perfect cabinets, countertops, appliances, and fixtures.",
+          "Step 3: Demolition and Construction – Our team carefully removes existing structures and begins the remodeling process.",
+          "Step 4: Installation and Finishing – We install all new components and complete the finishing touches, ensuring a flawless result."
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Functionality",
+          "Enhanced Aesthetics",
+          "Customized Design"
+        ],
+        "faq": [
+          {
+            "question": "How long does a kitchen remodel typically take?",
+            "answer": "The timeline varies depending on the scope of the project, but most kitchen remodels in Nashville take between 6 to 12 weeks."
+          },
+          {
+            "question": "Do I need to move out during the remodel?",
+            "answer": "While it's not always necessary, we recommend it for your comfort, especially during demolition and major construction phases."
+          },
+          {
+            "question": "Will you handle the necessary permits?",
+            "answer": "Yes, we manage all necessary permits and ensure compliance with Nashville building codes."
+          }
+        ]
+      },
+      {
+        "slug": "bathroom-remodeling",
+        "name": "Bathroom Remodeling",
+        "shortDescription": "Create a relaxing and functional bathroom retreat.",
+        "description": "Transform your outdated bathroom into a spa-like oasis with Campbell Contracting. We offer complete bathroom remodeling services for Nashville homeowners, from simple updates to full-scale renovations. Whether you're looking to replace a dated vanity, install a luxurious walk-in shower, or completely redesign your space, we have the expertise to bring your vision to life. We understand the challenges of older homes in areas like 12South, where bathrooms may be small or awkwardly configured. We're skilled at maximizing space and creating functional, beautiful bathrooms that meet your needs.\n\nOur services include plumbing, electrical, tiling, and fixture installation. We use high-quality materials and pay close attention to detail to ensure a lasting and beautiful result. We'll help you choose the perfect tile, fixtures, and lighting to create the bathroom of your dreams. From classic designs to modern aesthetics, we ensure your bathroom reflects your personal style.\n\nWe also address common Nashville bathroom issues like moisture and ventilation. We can install proper ventilation systems to prevent mold and mildew, ensuring a healthy and comfortable bathroom environment. Our team is committed to providing exceptional service and quality craftsmanship on every project.",
+        "process": [
+          "Step 1: Design Consultation – We discuss your ideas, preferences, and budget to create a custom bathroom design.",
+          "Step 2: Material Selection – We help you choose the right tiles, fixtures, and finishes to match your style and budget.",
+          "Step 3: Demolition and Reconstruction – We carefully remove existing fixtures and begin the remodeling process.",
+          "Step 4: Final Touches – We install all new components, ensuring everything is properly connected and functioning perfectly."
+        ],
+        "benefits": [
+          "Increased Comfort",
+          "Improved Functionality",
+          "Enhanced Home Value",
+          "Moisture Control"
+        ],
+        "faq": [
+          {
+            "question": "How long does a bathroom remodel take?",
+            "answer": "A typical bathroom remodel in Nashville usually takes between 3 to 8 weeks, depending on the complexity of the project."
+          },
+          {
+            "question": "Can you help me choose the right fixtures and materials?",
+            "answer": "Absolutely! We have extensive experience in selecting the best materials and fixtures to suit your style and budget."
+          },
+          {
+            "question": "Do you handle plumbing and electrical work?",
+            "answer": "Yes, we have licensed plumbers and electricians on our team to ensure all work is completed safely and to code."
+          }
+        ]
+      },
+      {
+        "slug": "deck-patio-construction",
+        "name": "Deck & Patio Construction",
+        "shortDescription": "Expand your outdoor living space with a custom deck or patio.",
+        "description": "Enhance your Nashville outdoor living experience with a custom-designed deck or patio from Campbell Contracting. We specialize in creating beautiful and functional outdoor spaces that complement your home and lifestyle. Whether you're envisioning a spacious deck for entertaining, a cozy patio for relaxing, or a combination of both, we can bring your vision to life.\n\nWe understand the Nashville climate and can recommend materials that will withstand the hot summers and occasional ice storms. We use high-quality lumber, composite decking, and pavers to ensure your deck or patio is durable and long-lasting. We also consider factors like sun exposure and drainage to create a comfortable and functional outdoor space.\n\nOur services include deck design, patio construction, pergola installation, and outdoor lighting. We handle all aspects of the project, from initial design to final inspection. We ensure your deck or patio is built to code and meets your specific needs. We can help you choose the right materials, colors, and finishes to create an outdoor space that reflects your personal style and enhances your home's value.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your ideas, budget, and needs to create a custom deck or patio design.",
+          "Step 2: Material Selection – We help you choose the right materials, colors, and finishes to match your style and budget.",
+          "Step 3: Construction – Our experienced team builds your deck or patio with precision and attention to detail.",
+          "Step 4: Finishing Touches – We add the final touches, such as railings, steps, and lighting, to complete your outdoor space."
+        ],
+        "benefits": [
+          "Increased Outdoor Living Space",
+          "Enhanced Home Value",
+          "Improved Curb Appeal",
+          "Custom Design"
+        ],
+        "faq": [
+          {
+            "question": "What type of materials do you use for decks and patios?",
+            "answer": "We use a variety of materials, including wood, composite decking, pavers, and concrete, depending on your preferences and budget."
+          },
+          {
+            "question": "Do I need a permit for a deck or patio?",
+            "answer": "Yes, in most cases, you will need a permit for deck and patio construction in Nashville. We handle the permit process for you."
+          },
+          {
+            "question": "How long does it take to build a deck or patio?",
+            "answer": "The timeline depends on the size and complexity of the project, but most decks and patios take between 2 to 6 weeks to build."
+          }
+        ]
+      },
+      {
+        "slug": "basement-finishing",
+        "name": "Basement Finishing",
+        "shortDescription": "Maximize your living space with professional basement finishing.",
+        "description": "Unlock the potential of your unfinished basement with Campbell Contracting's basement finishing services. We transform dark, unused spaces into comfortable and functional living areas, adding value and livability to your Nashville home. Whether you're dreaming of a home theater, a playroom for the kids, a home office, or an extra bedroom, we can bring your vision to life.\n\nWe understand the unique challenges of basement finishing in Nashville, including moisture control and foundation issues related to the limestone bedrock. We take steps to properly waterproof your basement and ensure it's protected from leaks and humidity. We also handle all aspects of the project, from framing and insulation to electrical and plumbing.\n\nOur services include basement design, framing, drywall, flooring, electrical, and plumbing. We use high-quality materials and pay close attention to detail to ensure a comfortable and durable finished basement. We also ensure all work is completed to code and meets your specific needs. We can help you create a basement that's both functional and beautiful, adding significant value to your home.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your ideas, budget, and needs to create a custom basement design.",
+          "Step 2: Waterproofing and Framing – We ensure your basement is properly waterproofed and framed to code.",
+          "Step 3: Electrical and Plumbing – We install all necessary electrical and plumbing systems.",
+          "Step 4: Finishing Touches – We add the final touches, such as drywall, flooring, and paint, to complete your finished basement."
+        ],
+        "benefits": [
+          "Increased Living Space",
+          "Enhanced Home Value",
+          "Improved Comfort",
+          "Custom Design"
+        ],
+        "faq": [
+          {
+            "question": "How much does it cost to finish a basement in Nashville?",
+            "answer": "The cost varies depending on the size and complexity of the project, but typically ranges from $30 to $60 per square foot."
+          },
+          {
+            "question": "Do I need a permit to finish my basement?",
+            "answer": "Yes, you will need a permit to finish your basement in Nashville. We handle the permit process for you."
+          },
+          {
+            "question": "How long does it take to finish a basement?",
+            "answer": "The timeline depends on the size and complexity of the project, but most basement finishing projects take between 4 to 12 weeks."
+          }
+        ]
+      },
+      {
+        "slug": "whole-house-renovations",
+        "name": "Whole House Renovations",
+        "shortDescription": "Transform your entire home with comprehensive renovation services.",
+        "description": "Is your Nashville home in need of a complete makeover? Campbell Contracting specializes in whole house renovations, transforming outdated and inefficient homes into modern, comfortable, and stylish living spaces. Whether you're looking to update your kitchen, bathrooms, and living areas, or completely reconfigure your floor plan, we have the expertise to bring your vision to life.\n\nWe understand the unique challenges of renovating older homes in areas like Germantown and East Nashville, where preserving historical character is important. We work closely with you to develop a design that respects your home's original architecture while incorporating modern amenities and features.\n\nOur services include kitchen remodeling, bathroom remodeling, basement finishing, flooring, painting, and more. We handle all aspects of the project, from initial design to final inspection. We ensure your renovation is completed to code and meets your specific needs. We can help you choose the right materials, colors, and finishes to create a home that reflects your personal style and enhances your lifestyle.\n\nWe also help ensure the structural integrity of your home is maintained during the renovation process. This is especially important in areas with older homes, some of which may have foundation or structural issues that need to be addressed during the renovation.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your ideas, budget, and needs to create a comprehensive renovation plan.",
+          "Step 2: Demolition and Reconstruction – We carefully remove existing structures and begin the renovation process.",
+          "Step 3: Installation and Finishing – We install all new components and complete the finishing touches, ensuring a flawless result.",
+          "Step 4: Final Walkthrough – We conduct a final walkthrough with you to ensure you're completely satisfied with the results."
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Functionality",
+          "Enhanced Aesthetics",
+          "Modernized Living Space"
+        ],
+        "faq": [
+          {
+            "question": "How long does a whole house renovation take?",
+            "answer": "The timeline varies depending on the scope of the project, but most whole house renovations in Nashville take between 3 to 9 months."
+          },
+          {
+            "question": "Do I need to move out during the renovation?",
+            "answer": "Yes, we typically recommend moving out during a whole house renovation for your safety and comfort."
+          },
+          {
+            "question": "Can you help me with the design process?",
+            "answer": "Absolutely! We have experienced designers on our team who can help you create a design that meets your needs and style."
+          }
+        ]
+      },
+      {
+        "slug": "home-additions",
+        "name": "Home Additions",
+        "shortDescription": "Expand your living space with a seamless home addition.",
+        "description": "Need more space in your Nashville home? Campbell Contracting specializes in home additions, seamlessly integrating new living areas into your existing structure. Whether you're looking to add a new bedroom, a larger kitchen, a sunroom, or a home office, we can help you create the space you need without the hassle of moving.\n\nWe understand the challenges of home additions in Nashville, including zoning regulations and structural considerations. We work closely with you to develop a design that meets your needs and complies with local building codes. We also ensure the addition blends seamlessly with your existing home, both aesthetically and structurally.\n\nOur services include design, foundation work, framing, roofing, electrical, and plumbing. We handle all aspects of the project, from initial planning to final inspection. We use high-quality materials and pay close attention to detail to ensure a durable and beautiful addition. We can help you choose the right materials, colors, and finishes to create a space that feels like a natural extension of your home.\n\nWe also obtain all necessary permits and ensure compliance with Nashville building codes. Our team is experienced with all aspects of home addition construction, including foundation work, framing, roofing, and interior finishes.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your needs, budget, and desired style to create a detailed addition plan.",
+          "Step 2: Permitting and Approvals – We handle all necessary permits and approvals from the city of Nashville.",
+          "Step 3: Construction – Our skilled team builds the addition with precision and quality craftsmanship.",
+          "Step 4: Finishing Touches – We complete the interior and exterior finishes, ensuring a seamless integration with your existing home."
+        ],
+        "benefits": [
+          "Increased Living Space",
+          "Enhanced Home Value",
+          "Improved Functionality",
+          "Custom Design"
+        ],
+        "faq": [
+          {
+            "question": "How long does a home addition take?",
+            "answer": "The timeline varies depending on the size and complexity of the project, but most home additions in Nashville take between 4 to 12 months."
+          },
+          {
+            "question": "What are the zoning regulations for home additions in Nashville?",
+            "answer": "Zoning regulations vary depending on your neighborhood. We can help you navigate the zoning process and ensure your addition complies with all regulations."
+          },
+          {
+            "question": "How much does a home addition cost?",
+            "answer": "The cost varies depending on the size and complexity of the project, but typically ranges from $150 to $300 per square foot."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Franklin",
+        "slug": "franklin-tn",
+        "state": "TN",
+        "content": "Campbell Contracting is proud to offer our comprehensive general contracting services to the vibrant city of Franklin, Tennessee. Known for its charming historic downtown and beautiful antebellum homes, Franklin presents unique construction and renovation opportunities. We understand the importance of preserving the historical integrity of these properties while incorporating modern amenities and functionality.\n\nWhether you're looking to restore a historic home, renovate your kitchen, or build a custom home that complements the area's rich architectural heritage, Campbell Contracting has the expertise and experience to bring your vision to life. We work closely with our clients to ensure that every project is completed to the highest standards of quality and craftsmanship, while respecting the character and charm of Franklin.",
+        "localContext": "Franklin's historic downtown and antebellum homes require careful attention to detail in all construction and renovation projects. The hot, humid summers also demand durable and energy-efficient building materials.",
+        "nearbyAreas": [
+          "Brentwood",
+          "Nashville",
+          "Thompson's Station"
+        ]
+      },
+      {
+        "city": "Murfreesboro",
+        "slug": "murfreesboro-tn",
+        "state": "TN",
+        "content": "Campbell Contracting is dedicated to providing exceptional general contracting services to the growing community of Murfreesboro, Tennessee. With its reputation for affordable family developments, Murfreesboro is a popular choice for those seeking quality housing options. We specialize in new construction, renovations, and additions that cater to the needs of modern families.\n\nFrom building energy-efficient homes to creating functional and stylish living spaces, Campbell Contracting is committed to delivering projects that exceed expectations. We understand the importance of staying within budget and completing projects on time, and we work closely with our clients to ensure a smooth and stress-free construction experience. Whether you're looking to build your dream home or renovate your existing property, we're here to help.",
+        "localContext": "Murfreesboro's family-friendly focus and growing population create a high demand for affordable and functional housing. The hot, humid summers necessitate energy-efficient construction practices.",
+        "nearbyAreas": [
+          "Smyrna",
+          "La Vergne",
+          "Nashville"
+        ]
+      },
+      {
+        "city": "Brentwood",
+        "slug": "brentwood-tn",
+        "state": "TN",
+        "content": "Campbell Contracting is pleased to offer our premium general contracting services to the discerning residents of Brentwood, Tennessee. Known for its luxurious estates and wooded lots, Brentwood offers unique opportunities for custom home building and high-end renovations. We have a proven track record of delivering exceptional results on complex and sophisticated projects.\n\nWe understand the importance of quality, craftsmanship, and attention to detail when working on luxury properties. Campbell Contracting collaborates closely with architects, designers, and homeowners to create stunning living spaces that reflect their individual style and preferences. From custom kitchens and bathrooms to elaborate outdoor living areas, we have the expertise to bring your vision to life.",
+        "localContext": "Brentwood's luxury estates require a high level of craftsmanship and attention to detail. The wooded lots often present unique challenges for construction and landscaping. Hot, humid summers require durable construction.",
+        "nearbyAreas": [
+          "Franklin",
+          "Nashville",
+          "Nolensville"
+        ]
+      },
+      {
+        "city": "Hendersonville",
+        "slug": "hendersonville-tn",
+        "state": "TN",
+        "content": "Campbell Contracting is proud to serve the beautiful lakefront community of Hendersonville, Tennessee. With its stunning homes on Old Hickory Lake, Hendersonville offers a unique blend of natural beauty and upscale living. We specialize in waterfront construction, renovations, and outdoor living spaces that take full advantage of the area's scenic surroundings.\n\nWhether you're looking to build a custom lakefront home, renovate your existing property, or create a stunning outdoor oasis, Campbell Contracting has the expertise and experience to bring your vision to life. We understand the importance of working with the unique challenges and opportunities presented by waterfront properties, and we're committed to delivering projects that exceed expectations.",
+        "localContext": "Hendersonville's lakefront homes require specialized construction techniques to withstand the elements and maximize views of Old Hickory Lake. Hot, humid summers require durable construction.",
+        "nearbyAreas": [
+          "Gallatin",
+          "Goodlettsville",
+          "Nashville"
+        ]
+      },
+      {
+        "city": "Nashville",
+        "slug": "nashville-tn",
+        "state": "TN",
+        "content": "Campbell Contracting is proud to offer general contracting services throughout the vibrant city of Nashville, Tennessee. From historic neighborhoods to modern developments, Nashville presents a diverse range of construction and renovation opportunities. We cater to projects of all sizes and scopes.\n\nWhether you are looking to renovate a historic home in East Nashville, build a new construction project in The Gulch, or remodel your kitchen in Green Hills, Campbell Contracting is equipped to meet your needs. We prioritize clear communication, quality workmanship, and on-time project completion.",
+        "localContext": "Nashville's diverse architectural styles and growing population create a dynamic construction market. The city's hot, humid summers and occasional severe weather events demand durable and resilient building practices.",
+        "nearbyAreas": [
+          "Brentwood",
+          "Franklin",
+          "Murfreesboro"
+        ]
+      },
+      {
+        "city": "Gallatin",
+        "slug": "gallatin-tn",
+        "state": "TN",
+        "content": "Campbell Contracting extends its expertise to Gallatin, TN, providing a full spectrum of general contracting solutions. Gallatin combines historic charm with modern growth, making it a unique market for both renovation and new construction projects.\n\nWe are adept at managing projects from start to finish, ensuring that every detail aligns with your vision and budget. Whether you're looking to update a classic home or construct a new building, Campbell Contracting provides the experience and resources needed for a successful outcome.",
+        "localContext": "Gallatin's blend of historical buildings and new developments requires contractors with a versatile skillset. The city experiences hot, humid summers and mild winters, influencing construction material choices.",
+        "nearbyAreas": [
+          "Hendersonville",
+          "Portland",
+          "White House"
+        ]
+      },
+      {
+        "city": "Smyrna",
+        "slug": "smyrna-tn",
+        "state": "TN",
+        "content": "Campbell Contracting is pleased to serve Smyrna, Tennessee, offering excellent general contracting services. As a rapidly growing town, Smyrna presents numerous opportunities for residential and commercial construction projects.\n\nWe specialize in delivering high-quality construction and renovation solutions tailored to meet the unique needs of Smyrna's residents and businesses. Whether you're planning a home addition, a commercial build-out, or a complete renovation, Campbell Contracting is committed to providing outstanding results.",
+        "localContext": "Smyrna's rapid growth requires reliable and efficient construction services. The hot, humid climate necessitates the use of durable and weather-resistant materials.",
+        "nearbyAreas": [
+          "Murfreesboro",
+          "La Vergne",
+          "Antioch"
+        ]
+      },
+      {
+        "city": "La Vergne",
+        "slug": "la-vergne-tn",
+        "state": "TN",
+        "content": "Campbell Contracting is dedicated to providing top-notch general contracting services in La Vergne, Tennessee. This growing community offers a diverse range of construction opportunities, from residential developments to commercial properties.\n\nWe are committed to delivering projects that not only meet but exceed our clients' expectations. Whether you're looking to build a new home, renovate an existing structure, or undertake a commercial construction project, Campbell Contracting has the expertise and resources to ensure a successful outcome.",
+        "localContext": "La Vergne's expanding residential and commercial sectors drive the need for experienced contractors. The local climate, characterized by hot summers and mild winters, is a key consideration in construction planning.",
+        "nearbyAreas": [
+          "Smyrna",
+          "Antioch",
+          "Murfreesboro"
+        ]
+      },
+      {
+        "city": "Goodlettsville",
+        "slug": "goodlettsville-tn",
+        "state": "TN",
+        "content": "Campbell Contracting is proud to offer general contracting services in Goodlettsville, Tennessee. This city, known for its community spirit and growing economy, provides a variety of construction and renovation opportunities.\n\nWe specialize in tailoring our services to meet the specific needs of Goodlettsville residents and businesses. From home renovations to commercial construction projects, Campbell Contracting is dedicated to providing high-quality workmanship and exceptional customer service.",
+        "localContext": "Goodlettsville's mix of residential and commercial properties creates a demand for versatile construction services. The local climate, with its hot summers and mild winters, influences building design and material selection.",
+        "nearbyAreas": [
+          "Hendersonville",
+          "Madison",
+          "Millersville"
+        ]
+      },
+      {
+        "city": "Spring Hill",
+        "slug": "spring-hill-tn",
+        "state": "TN",
+        "content": "Campbell Contracting is excited to extend our general contracting expertise to Spring Hill, Tennessee. As one of the fastest-growing cities in the region, Spring Hill presents abundant opportunities for both residential and commercial construction.\n\nWe are committed to providing Spring Hill residents and businesses with reliable, high-quality construction services. Whether you're planning a new home build, a commercial development, or a renovation project, Campbell Contracting is equipped to deliver exceptional results.",
+        "localContext": "Spring Hill's rapid growth requires efficient and dependable construction services. The hot, humid summers and temperate winters necessitate careful consideration of building materials and energy efficiency.",
+        "nearbyAreas": [
+          "Columbia",
+          "Thompson's Station",
+          "Franklin"
+        ]
+      },
+      {
+        "city": "Mount Juliet",
+        "slug": "mount-juliet-tn",
+        "state": "TN",
+        "content": "Campbell Contracting proudly offers comprehensive general contracting services to Mount Juliet, Tennessee. Known for its family-friendly atmosphere and convenient location, Mount Juliet is a prime spot for both residential and commercial development.\n\nWe are dedicated to providing Mount Juliet residents and businesses with top-notch construction and renovation services. Whether you're envisioning a new home, a commercial build-out, or a home renovation, Campbell Contracting is here to bring your vision to life with quality and precision.",
+        "localContext": "Mount Juliet's growing population and strategic location fuel the demand for experienced contractors. The local climate, characterized by hot summers and mild winters, is a key factor in construction planning and material selection.",
+        "nearbyAreas": [
+          "Lebanon",
+          "Hermitage",
+          "Watertown"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Kitchen Remodeling",
+        "text": "Campbell Contracting did an amazing job remodeling our kitchen! They helped us design a space that's both beautiful and functional. The team was professional, communicative, and always on time. We highly recommend them!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Bathroom Remodeling",
+        "text": "We hired Campbell Contracting to remodel our master bathroom, and we're very happy with the results. The quality of the workmanship is excellent, and they were very responsive to our questions and concerns. There were a couple of minor delays, but they communicated them clearly and kept the project on track.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Deck Construction",
+        "text": "Campbell Contracting built a beautiful deck for our backyard. They helped us choose the right materials and design for our space, and the construction was completed quickly and efficiently. We're so happy with our new outdoor living area!",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 5,
+        "service": "Basement Finishing",
+        "text": "Campbell Contracting transformed our unfinished basement into a fantastic home theater and game room. The team was professional, courteous, and always kept us informed throughout the project. The quality of the work is outstanding, and we couldn't be happier!",
+        "date": "2024-06-10"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 4,
+        "service": "Whole House Renovation",
+        "text": "We hired Campbell Contracting for a whole house renovation, and while it was a big project, they managed it very well. They were organized, responsive, and always willing to address our concerns. The end result is a beautiful and functional home that we love.",
+        "date": "2024-02-28"
+      },
+      {
+        "name": "Brian T.",
+        "rating": 5,
+        "service": "Home Addition",
+        "text": "Campbell Contracting added a sunroom to our home, and it's exactly what we wanted. The team was professional, efficient, and always paid attention to detail. The addition blends seamlessly with our existing home, and we couldn't be happier with the results.",
+        "date": "2023-12-15"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Campbell Contracting | Nashville TN",
+        "description": "Trusted general contractor in Nashville. Kitchen & bath remodel, decks, basement finish, additions."
+      },
+      "about": {
+        "title": "About Campbell Contracting",
+        "description": "Learn about Campbell Contracting's values, experience, and commitment to Nashville."
+      },
+      "services": {
+        "title": "Nashville Contractor Services",
+        "description": "Campbell Contracting offers kitchen & bath remodel, decks, basement finish, additions & more."
+      },
+      "contact": {
+        "title": "Contact Campbell Contracting",
+        "description": "Get in touch with Campbell Contracting for your Nashville construction needs. Free consultations."
+      },
+      "reviews": {
+        "title": "Campbell Contracting Reviews",
+        "description": "Read reviews from Campbell Contracting customers in Nashville & surrounding areas."
+      },
+      "service-areas": {
+        "title": "Service Areas - Campbell Contracting",
+        "description": "Campbell Contracting serves Nashville, Franklin, Murfreesboro, Brentwood, and Hendersonville."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "kitchen-remodeling": "/images/service-kitchen-remodeling.webp",
+      "bathroom-remodeling": "/images/service-bathroom-remodeling.webp",
+      "deck-patio-construction": "/images/service-deck-patio-construction.webp",
+      "basement-finishing": "/images/service-basement-finishing.webp",
+      "whole-house-renovations": "/images/service-whole-house-renovations.webp",
+      "home-additions": "/images/service-home-additions.webp"
+    },
+    "servicesResponsive": {
+      "kitchen-remodeling": {
+        "src": "/images/service-kitchen-remodeling.webp",
+        "srcset": "/images/service-kitchen-remodeling-400w.webp 400w, /images/service-kitchen-remodeling-800w.webp 800w, /images/service-kitchen-remodeling-1200w.webp 1200w, /images/service-kitchen-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "bathroom-remodeling": {
+        "src": "/images/service-bathroom-remodeling.webp",
+        "srcset": "/images/service-bathroom-remodeling-400w.webp 400w, /images/service-bathroom-remodeling-800w.webp 800w, /images/service-bathroom-remodeling-1200w.webp 1200w, /images/service-bathroom-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-patio-construction": {
+        "src": "/images/service-deck-patio-construction.webp",
+        "srcset": "/images/service-deck-patio-construction-400w.webp 400w, /images/service-deck-patio-construction-800w.webp 800w, /images/service-deck-patio-construction-1200w.webp 1200w, /images/service-deck-patio-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "basement-finishing": {
+        "src": "/images/service-basement-finishing.webp",
+        "srcset": "/images/service-basement-finishing-400w.webp 400w, /images/service-basement-finishing-800w.webp 800w, /images/service-basement-finishing-1200w.webp 1200w, /images/service-basement-finishing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "whole-house-renovations": {
+        "src": "/images/service-whole-house-renovations.webp",
+        "srcset": "/images/service-whole-house-renovations-400w.webp 400w, /images/service-whole-house-renovations-800w.webp 800w, /images/service-whole-house-renovations-1200w.webp 1200w, /images/service-whole-house-renovations.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "home-additions": {
+        "src": "/images/service-home-additions.webp",
+        "srcset": "/images/service-home-additions-400w.webp 400w, /images/service-home-additions-800w.webp 800w, /images/service-home-additions-1200w.webp 1200w, /images/service-home-additions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
